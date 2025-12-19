@@ -1,0 +1,49 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "VoterClient",
+            "request": "launch",
+            "mainClass": "VoterClient",
+            "projectName": "distributedsystemProject_6eb12ad6"
+        },
+        {
+            "type": "java",
+            "name": "AdminClient",
+            "request": "launch",
+            "mainClass": "AdminClient",
+            "projectName": "distributedsystemProject_6eb12ad6"
+        },
+        {
+            "type": "java",
+            "name": "VotingServer",
+            "request": "launch",
+            "mainClass": "VotingServer",
+            "projectName": "distributedsystemProject_6eb12ad6"
+        },
+        {
+            "type": "java",
+            "name": "VotingServer",
+            "request": "launch",
+            "mainClass": "VotingServer",
+            "projectName": "distributedsystemProject_84c5735f"
+        },
+        {
+            "type": "java",
+            "name": "AdminClient",
+            "request": "launch",
+            "mainClass": "AdminClient",
+            "projectName": "distributedsystemProject_84c5735f",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-21.0.9/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "VoterClient",
+            "request": "launch",
+            "mainClass": "VoterClient",
+            "projectName": "distributedsystemProject_84c5735f",
+            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-21.0.9/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

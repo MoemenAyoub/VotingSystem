@@ -1,0 +1,4 @@
+Run the server 
+Run the Admin client	
+Run one or more Voter clients
+
